@@ -1,1 +1,1 @@
-# CodinGame solutions in python
+# CodinGame solutions in python3
